@@ -1,0 +1,217 @@
+.sprite {
+    display: inline-block;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-image: url(semaforo-0001-default.png);
+    background-size: 1848px 1333px;
+}
+.sprite.made-with-zwoptex {
+    width: 228.0px;
+    height: 228.0px;
+    background-position: -0.0px -0.0px;
+}
+.sprite.semaforo_0 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -228.0px -0.0px;
+}
+.sprite.semaforo_1 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -459.0px -0.0px;
+}
+.sprite.semaforo_2 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -690.0px -0.0px;
+}
+.sprite.semaforo_3 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -921.0px -0.0px;
+}
+.sprite.semaforo_4 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1152.0px -0.0px;
+}
+.sprite.semaforo_5 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1383.0px -0.0px;
+}
+.sprite.semaforo_6 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1614.0px -0.0px;
+}
+.sprite.semaforo_7 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -0.0px -228.0px;
+}
+.sprite.semaforo_8 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -231.0px -228.0px;
+}
+.sprite.semaforo_9 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -462.0px -228.0px;
+}
+.sprite.semaforo_a {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -693.0px -228.0px;
+}
+.sprite.semaforo_b {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -924.0px -228.0px;
+}
+.sprite.semaforo_c {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1155.0px -228.0px;
+}
+.sprite.semaforo_d {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1386.0px -228.0px;
+}
+.sprite.semaforo_e {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1617.0px -228.0px;
+}
+.sprite.semaforo_f {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -0.0px -449.0px;
+}
+.sprite.semaforo_g {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -231.0px -449.0px;
+}
+.sprite.semaforo_h {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -462.0px -449.0px;
+}
+.sprite.semaforo_i {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -693.0px -449.0px;
+}
+.sprite.semaforo_inicio-1 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -924.0px -449.0px;
+}
+.sprite.semaforo_inicio-2 {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1155.0px -449.0px;
+}
+.sprite.semaforo_j {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1386.0px -449.0px;
+}
+.sprite.semaforo_k {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1617.0px -449.0px;
+}
+.sprite.semaforo_l {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -0.0px -670.0px;
+}
+.sprite.semaforo_m {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -231.0px -670.0px;
+}
+.sprite.semaforo_n {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -462.0px -670.0px;
+}
+.sprite.semaforo_numeros {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -693.0px -670.0px;
+}
+.sprite.semaforo_o {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -924.0px -670.0px;
+}
+.sprite.semaforo_p {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1155.0px -670.0px;
+}
+.sprite.semaforo_pausa-p {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1386.0px -670.0px;
+}
+.sprite.semaforo_pausa {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1617.0px -670.0px;
+}
+.sprite.semaforo_q {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -0.0px -891.0px;
+}
+.sprite.semaforo_r {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -231.0px -891.0px;
+}
+.sprite.semaforo_s {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -462.0px -891.0px;
+}
+.sprite.semaforo_t {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -693.0px -891.0px;
+}
+.sprite.semaforo_u {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -924.0px -891.0px;
+}
+.sprite.semaforo_v {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1155.0px -891.0px;
+}
+.sprite.semaforo_w {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1386.0px -891.0px;
+}
+.sprite.semaforo_x {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -1617.0px -891.0px;
+}
+.sprite.semaforo_y {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -0.0px -1112.0px;
+}
+.sprite.semaforo_z {
+    width: 231.0px;
+    height: 221.0px;
+    background-position: -231.0px -1112.0px;
+}
